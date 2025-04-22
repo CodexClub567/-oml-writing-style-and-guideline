@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OML Writing Style and Guideline", "OML Writing Style and Guideline.csproj", "{730B03D4-F6E1-4392-A10E-470F4FC82CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730B03D4-F6E1-4392-A10E-470F4FC82CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730B03D4-F6E1-4392-A10E-470F4FC82CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730B03D4-F6E1-4392-A10E-470F4FC82CAC}.Debug|ARM32.ActiveCfg = Debug|ARM32
+		{730B03D4-F6E1-4392-A10E-470F4FC82CAC}.Debug|ARM32.Build.0 = Debug|ARM32
+		{730B03D4-F6E1-4392-A10E-470F4FC82CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730B03D4-F6E1-4392-A10E-470F4FC82CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730B03D4-F6E1-4392-A10E-470F4FC82CAC}.Release|ARM32.ActiveCfg = Release|ARM32
+		{730B03D4-F6E1-4392-A10E-470F4FC82CAC}.Release|ARM32.Build.0 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

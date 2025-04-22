@@ -1,0 +1,24 @@
+{
+  "name": "oml-writing-style-and-guideline",
+  "version": "1.0.0",
+  "description": "A comprehensive guide and style manual for writing in OML.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 1",
+    "build": "echo \"Build process not defined yet\""
+  },
+  "keywords": ["OML", "writing", "style", "guideline", "documentation"],
+  "author": "Arifur Rahman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodexClub567/oml-writing-style-and-guideline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodexClub567/oml-writing-style-and-guideline/issues"
+  },
+  "homepage": "https://github.com/yourusername/oml-writing-style-and-guideline#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
